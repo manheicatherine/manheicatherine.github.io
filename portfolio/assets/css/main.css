@@ -355,6 +355,10 @@ a {
   width: 80px !important;
 }
 
+.skill-image:hover{
+	transform: scale(1.2)
+}
+
 .contact-title {
   text-align: center;
   font-size: 20px;
