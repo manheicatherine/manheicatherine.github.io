@@ -1645,6 +1645,7 @@ button:disabled,
   -webkit-text-stroke: 1px rgb(255, 255, 255);
 }
 
+
 .tiles article > a .content > :last-child {
   margin-bottom: 0;
 }
@@ -1684,6 +1685,10 @@ body:not(.is-touch) .tiles article:hover > .image:after {
 body:not(.is-touch) .tiles article:hover .content {
   max-height: 15em;
   opacity: 1;
+}
+
+.techstack{
+  background-color: #ff6464;
 }
 
 * + .tiles {
