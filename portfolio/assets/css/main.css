@@ -358,6 +358,7 @@ text-align: center;
 
 .skill-image:hover{
 	transform: scale(1.2)
+	
 }
 
 .contact-title {
@@ -1503,6 +1504,7 @@ button:disabled,
 
 /* Tiles */
 
+
 .tiles {
   display: -moz-flex;
   display: -webkit-flex;
@@ -1648,15 +1650,15 @@ button:disabled,
 }
 
 .tiles article.style1 > .image:before {
-  background-color: #b7bde9;
+  /* background-color: #b7bde9; */
 }
 
 .tiles article.style2 > .image:before {
-  background-color: #f5d8cb;
+  /* background-color: #f5d8cb; */
 }
 
 .tiles article.style3 > .image:before {
-  background-color: #9deaec;
+  /* background-color: #9deaec; */
 }
 
 .tiles article.style4 > .image:before {
@@ -1671,8 +1673,8 @@ body:not(.is-touch) .tiles article:hover > .image {
 }
 
 body:not(.is-touch) .tiles article:hover > .image:before {
-  background-color: #503f37;
-  opacity: 0.35;
+  background-color: #2b2b2b;
+  opacity: 0.75;
 }
 
 body:not(.is-touch) .tiles article:hover > .image:after {
