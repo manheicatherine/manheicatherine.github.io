@@ -1661,17 +1661,7 @@ button:disabled,
   margin-bottom: 0;
 }
 
-.tiles article.style1 > .image:before {
-  /* background-color: #b7bde9; */
-}
 
-.tiles article.style2 > .image:before {
-  /* background-color: #f5d8cb; */
-}
-
-.tiles article.style3 > .image:before {
-  /* background-color: #9deaec; */
-}
 
 .tiles article.style4 > .image:before {
   background-color: #c75b9b;
